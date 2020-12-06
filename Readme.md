@@ -1,5 +1,4 @@
 ﻿# Simple 8250 UART System
-*Created by Balázs Márkus in 2018*
 
 This circuit provides a simple test environment for a **8250 Universal asynchronous receiver-transmitter (UART) ** chip. In this specific example I used an *NS8250-B* chip, but this software is forward compatible with all of the serial IC-s based on the 8250 architecture. 
 
