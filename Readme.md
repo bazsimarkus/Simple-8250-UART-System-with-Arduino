@@ -1,6 +1,6 @@
 ﻿# Simple 8250 UART System
 
-This circuit provides a simple test environment for a **8250 Universal asynchronous receiver-transmitter (UART) ** chip. In this specific example I used an *NS8250-B* chip, but this software is forward compatible with all of the serial IC-s based on the 8250 architecture. 
+This circuit provides a simple test environment for a **8250 Universal asynchronous receiver-transmitter (UART)** chip. In this specific example I used an *NS8250-B* chip, but this software is forward compatible with all of the serial IC-s based on the 8250 architecture. 
 
 This system was intended to be an introductory circuit to the world of UARTs, so I tried to minimize the complexity of the circuit, with keeping the amount of components as low as possible.
 
@@ -52,7 +52,7 @@ Then select the COM port of your USB-TTL Serial converter, and open up the seria
 
 ## Development
 
-The project was developed using Arduino IDE 1.6.9 (https://www.arduino.cc/) and the testing was made with RealTerm (https://realterm.sourceforge.io/)
+The project was developed using the Arduino IDE (https://www.arduino.cc/) and the testing was done with RealTerm (https://realterm.sourceforge.io/)
 
 ## Notes
 
