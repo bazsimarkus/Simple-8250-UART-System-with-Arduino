@@ -53,7 +53,7 @@ void writeCharToUart(int data)
     delay(1);
 
     writeDataBus(data);
-
+    delay(1);
     digitalWrite(WRN, HIGH);
     delay(1);
 
