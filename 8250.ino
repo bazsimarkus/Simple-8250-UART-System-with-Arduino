@@ -32,7 +32,7 @@ void setup() {
 void loop() {
 
 //Send out the string to the UART
-    for(int j=0; j<16; j++) {
+    for(int j=0; j<8; j++) {
         myChar = pgm_read_byte_near(testString + j);
         writeCharToUart(myChar);
     }
