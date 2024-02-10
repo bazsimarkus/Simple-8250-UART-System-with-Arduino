@@ -381,14 +381,14 @@ void initUart() {
      * Examples:
      * Baud Rate | Divisor | Baud Rate | Divisor
      * ----------|---------|-----------|--------
-     *    50    |  900h   |   2400    |  30h
-     *   110    |  417h   |   3600    |  20h
-     *   150    |  300h   |   4800    |  18h
-     *   300    |  180h   |   7200    |  10h
-     *   600    |   C0h   |   9600    |  0Ch
-     *  1200    |   60h   |  19200    |  06h
-     *  1800    |   40h   |  38400    |  03h
-     *  2000    |   3Ah   | 115200    |  01h
+     *     50    |  900h   |   2400    |  30h
+     *    110    |  417h   |   3600    |  20h
+     *    150    |  300h   |   4800    |  18h
+     *    300    |  180h   |   7200    |  10h
+     *    600    |   C0h   |   9600    |  0Ch
+     *   1200    |   60h   |  19200    |  06h
+     *   1800    |   40h   |  38400    |  03h
+     *   2000    |   3Ah   | 115200    |  01h
      *
      * - Baud rate divisors can be calculated by taking the oscillating
      *   frequency (1,843,200 Hz) and dividing by the quantity of the desired
