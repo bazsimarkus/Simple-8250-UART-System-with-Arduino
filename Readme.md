@@ -16,7 +16,7 @@ This system serves as an introductory circuit to the world of UARTs, aiming to m
 - USB-TTL Serial converter for testing (FTDI will also suffice)
 - 2x 33pF ceramic capacitors
 - Optional: 2x 470Ω resistors with standard THT LEDs in series on TX/RX
-	> The USB-TTL Serial adapter is necessary to test if the circuit is functioning correctly. Refer to "Testing" for details.
+	> The USB-TTL Serial adapter is necessary to test if the circuit is functioning correctly. Refer to "How to use" for details.
 
 ## How to use
 
