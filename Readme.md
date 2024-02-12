@@ -273,6 +273,10 @@ Bit order:
 
 The project was developed using the [Arduino IDE](https://www.arduino.cc/), and testing was conducted with [RealTerm](https://realterm.sourceforge.io/).
 
+Here you can see a screenshot of the result:
+
+![Screenshot](https://github.com/bazsimarkus/Simple-8250-UART-System-with-Arduino/raw/master/images/8250_screenshot.png)
+
 ## Notes
 
 Check out my other serial test circuit projects, developed concurrently with this circuit!
