@@ -107,7 +107,7 @@
 #define A0_ADDRESS_PIN    A0   // Address bus bit 0
 #define A1_ADDRESS_PIN    A1   // Address bus bit 1
 #define A2_ADDRESS_PIN    A2   // Address bus bit 2
-#define RDN               A5   // Receive Data Not (Active Low)
+#define RDN               A5   // Read Not (Active Low)
 #define MR                12   // Master Reset
 #define WRN               11   // Write Not (Active Low)
 #define CS2N              10   // Chip Select 2 Not (Active Low)
