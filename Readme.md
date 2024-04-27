@@ -56,7 +56,7 @@ To initialize the UART registers for communication, the Arduino program follows 
 
 ## 8250 Properties
 
-The 8250 chip, also known as the 8250 UART (Universal Asynchronous Receiver/Transmitter), is a popular integrated circuit used for serial communication in early computer systems. It was developed by Intel in the 1970s and became widely adopted due to its simplicity and versatility. The 8250 UART facilitates asynchronous serial communication, allowing data to be transmitted and received one bit at a time without the need for a shared clock signal between the sender and receiver. It has been used in various applications, including connecting peripherals such as modems, mice, and printers to computers, as well as in embedded systems and industrial automation. The 8250 UART has been succeeded by more advanced UART chips, but its legacy continues to influence serial communication standards and protocols.
+The 8250 chip, also known as the 8250 UART (Universal Asynchronous Receiver/Transmitter), is a popular integrated circuit used for serial communication in early computer systems. It was originally manufactured by the National Semiconductor Corporation and was commonly used in PCs and related equipment such as printers or modems. The 8250 UART facilitates asynchronous serial communication, allowing data to be transmitted and received one bit at a time without the need for a shared clock signal between the sender and receiver. The 8250 UART has been succeeded by more advanced UART chips, but its legacy continues to influence serial communication standards and protocols.
 
 In this section, some hardware properties of the 8250 UART chip are provided.
 
